@@ -1,5 +1,6 @@
 # Solar Radiation Project
-This project was made for a kaggle competition, that you can find in the following link:[Overview Kaggle Competition](https://www.kaggle.com/c/datamex0120/overview)
+This project was made for a kaggle competition, that you can find in the following link:
+[Overview Kaggle Competition](https://www.kaggle.com/c/datamex0120/overview)
 
 With this work I was the fourtune to win the constest. Check out the [Leader Board](https://www.kaggle.com/c/datamex0120/leaderboard)
 
